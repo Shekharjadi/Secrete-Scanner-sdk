@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GitleaksScanner.Runner": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
