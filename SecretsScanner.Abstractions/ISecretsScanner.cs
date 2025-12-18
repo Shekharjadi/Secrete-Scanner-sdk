@@ -1,4 +1,7 @@
-﻿namespace SecretsScanner.Abstractions;
+﻿using System.Threading;
+using System.Threading.Tasks;
+
+namespace SecretsScanner.Abstractions;
 
 public interface ISecretsScanner
 {
